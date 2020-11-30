@@ -1,0 +1,113 @@
+hr{
+  border-style:dotted none none;
+  border-color:#f3bad6;
+  border-width: 10px;
+  width: 40%;
+  margin-top: 5.5rem;
+  margin-bottom: 5.5rem;
+
+}
+
+
+body{
+  background-image: url(../Resources/bg.jpg);
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+h1{
+  color: #1fffff;
+  font-weight: bold;
+  font-family: 'Caveat', cursive;
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+h2{
+  color: #1fffff;
+  font-family: 'ABeeZee', sans-serif;
+  margin-top: 0;
+  font-size: 2.3rem;
+}
+
+h3{
+  color: #32ff6a;
+  font-family: 'ABeeZee', sans-serif;
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+p{
+  margin: 0 0 0 0;
+  font-size: 1.7rem;
+  font-family: 'Caveat', cursive;
+  color: #f4ff61;
+}
+
+.bulletList{
+  margin-top: -1.5%;
+  font-size: 1.2rem;
+  font-family: 'ABeeZee', sans-serif;
+  color: #f4ff61;
+  padding: 20px;
+  padding-bottom: 10px;
+  list-style-position: inside;
+  margin-left: 25%;
+}
+
+.firstanim{
+  position: absolute;;
+  margin-top:25%;
+  margin-left: 77%;
+
+}
+
+.secondanim{
+  position: absolute;
+  margin-top: 25%;
+  margin-left: 4%;
+
+}
+
+.thirdanim{
+  position: absolute;
+  margin-left: 26%;
+  margin-top: -3%
+}
+.fourthanim{
+  position: absolute;
+  margin-left: 67.5%;
+  margin-top:-3.7%;
+}
+
+.mypichover:hover{
+transform: scale(1.2);
+}
+
+.mypichover{
+  position: relative;
+  padding-top: 30px;
+}
+
+.centerBlocks{
+  text-align: center;
+  justify-content: center;
+}
+
+.techSkills{
+  margin-left: 30%;
+
+}
+.techphoto{
+  float: left;
+}
+
+.hrinside{
+  border-style:solid;
+  border-color:#54e346;
+  border-width: 1px;
+  width: 50%;
+  margin-top: 3.5rem;
+  margin-bottom: 3.5rem;
+
+}
